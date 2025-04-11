@@ -1,1 +1,0 @@
-# progettoBanca2.41
